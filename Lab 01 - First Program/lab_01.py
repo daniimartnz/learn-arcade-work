@@ -1,1 +1,1 @@
-print("Hello world")
+print("Esto es una preuba de python\n en diferentes líneas")
